@@ -71,9 +71,9 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ### Bug / Feature Request
 
-If you find a bug, kindly open an issue [here](https://github.com/goncaloperes/Project-PHP-MyTravelJourney/issues) by including your search query and the expected result.
+If you find a bug, kindly open an issue [here](https://github.com/goncaloperes/Project-PHP-MyTravelJourney/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/goncaloperes/Project-PHP-MyTravelJourney/issues). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/goncaloperes/Project-PHP-MyTravelJourney/issues/new). Please include sample queries and their corresponding results.
 
 ---
 
@@ -93,6 +93,6 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ---
 
-## [License](https://github.com/goncaloperes/Project-AJAX-AddressBook/blob/master/LICENSE)
+## [License](https://github.com/goncaloperes/Project-PHP-MyTravelJourney/blob/master/LICENSE)
 
 MIT © [Gonçalo Peres](https://goncaloperes.github.io)
