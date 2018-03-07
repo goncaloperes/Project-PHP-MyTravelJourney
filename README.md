@@ -1,4 +1,8 @@
 # [My Travel Journal](https://github.com/goncaloperes/Project-PHP-MyTravelJourney)
+[![GitHub Watches](https://img.shields.io/github/watchers/goncaloperes/Project-PHP-MyTravelJourney.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/goncaloperes/Project-PHP-MyTravelJourney/watchers)
+[![GitHub Starts](https://img.shields.io/github/stars/goncaloperes/Project-PHP-MyTravelJourney.svg?style=social&label=Star&maxAge=2592000)](https://github.com/goncaloperes/ProjectProject-PHP-MyTravelJourney/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/goncaloperes/Project-PHP-MyTravelJourney.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/goncaloperes/Project-PHP-MyTravelJourney/network)
+
 ![](https://img.shields.io/badge/Version-1.0-blue.svg) 
 ![](https://img.shields.io/badge/License-MIT-green.svg)
 
